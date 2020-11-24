@@ -1,7 +1,7 @@
 '''
 Getting The most recent inspection data of restaurants
 
-Team FRA (Front Row Asians): Anqi Hu, Chia-yun Chang, Nak Won Rim
+Nak Won Rim, Anqi Hu, Chia-yun Chang
 '''
 
 import jellyfish

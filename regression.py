@@ -1,7 +1,7 @@
 '''
 Run the OLS regression on the final data set
 
-Team FRA (Front Row Asians): Anqi Hu, Chia-yun Chang, Nak Won Rim
+Nak Won Rim, Anqi Hu, Chia-yun Chang
 '''
 
 import pandas as pd

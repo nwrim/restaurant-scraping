@@ -1,6 +1,7 @@
-CAPP30122 Final Project
+# CAPP30122 Final Project
 
-Nak Won Rim, Anqi Hu, Chia-yun Chang
+## A quantitative study on restaurant price, inspection performance, area income, and crime rates
+## Nak Won Rim, Anqi Hu, Chia-yun Chang
 
 # Libraries
 
