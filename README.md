@@ -1,6 +1,6 @@
-# CAPP30122 Final Project
+# CAPP30122 (Computer Science with Applications 2) Final Project
 
-## A quantitative study on restaurant price, inspection performance, area income, and crime rates
+## Restaurant Price, Inspection Performance, Area Income, and Crime Rates
 ## Nak Won Rim, Anqi Hu, Chia-yun Chang
 
 # Libraries
@@ -25,3 +25,5 @@ used for some inital data exploration to group some cuisines together. Written b
 **Note that we are not uploading any final scraped data or downloaded data in this repository in case of copyright issues, etc**.
 
 # Results and Visualizations
+
+Please refer to [https://nwrim.github.io/posts/2020/03/CAPP30122/](https://nwrim.github.io/posts/2020/03/CAPP30122/) for results and visualizations.
